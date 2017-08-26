@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    func dz1() {
+        print("this is DZ 1")
+    }
 
 }
 
